@@ -1,0 +1,29 @@
+* {
+    width: 100%;
+}
+
+
+ul {
+    list-style-type: none;
+    display: flex;
+    align-items: right;
+    
+}
+
+.nav__link {
+    text-decoration: none;
+
+}
+
+.logo {
+    width: 140px;
+    height: 140px;
+}
+
+.nav__container {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
